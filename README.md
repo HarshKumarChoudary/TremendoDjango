@@ -24,9 +24,11 @@ Link to site is in the title above.
 3) You can use a trial student and teacher for login to their dashboard
   For student:
   Username : Rakesh
+  
   Password :123@ramesh
   
   For Teacher
   Username : raju
+  
   password: jar@1234
   
