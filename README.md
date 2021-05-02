@@ -20,3 +20,13 @@ Link to site is in the title above.
   d) activate the virtual environment.
   e) in settings.py file make the necessary changes like addition of test email and password.
   f) run the server "python manage.py runserver"
+
+3) You can use a trial student and teacher for login to their dashboard
+  For student:
+  Username : Rakesh
+  Password :123@ramesh
+  
+  For Teacher
+  Username : raju
+  password: jar@1234
+  
